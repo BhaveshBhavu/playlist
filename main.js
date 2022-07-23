@@ -2,11 +2,11 @@ console.log('Hello World!');
 
 
 
-for (var o = 0; o < 17; o++) {
+for (var o = 0; o < 10; o++) {
 
-var img = new Array('1.jpg', '2.jpg','3.jpeg', '4.png', '5.jpg','6.jpg','7.gif', '8.jpg','9.jpg', '10.jpg', '11.jpg','12.jpg','13.jpg','14.jpg','15.jpg','16.png','17.jpg');
+var img = new Array('1.jpg', '2.jpg','3.jpeg', '4.jpeg','5.png','6.jpeg','7.jpg','8.png','9.jpeg','10.jpeg');
 
-var a = new Array('https://bhaveshbhavu.github.io/Doremon/', 'https://bhaveshbhavu.github.io/password-N/','https://bhaveshbhavu.github.io/LET-S-TRAVEL/', 'https://bhaveshbhavu.github.io/YOU-TUBE/', 'https://bhaveshbhavu.github.io/May-play/','https://bhaveshbhavu.github.io/food/','https://bhaveshbhavu.github.io/Loki/','https://bhaveshbhavu.github.io/img/','https://bhaveshbhavu.github.io/HDJum.Com/', 'https://bhaveshbhavu.github.io/Colors/', 'https://bhaveshbhavu.github.io/RATHORE-BHAVESH/','https://bhaveshbhavu.github.io/-_-/','https://bhaveshbhavu.github.io/Hamster/','https://bhaveshbhavu.github.io/Free-g/','https://bhaveshbhavu.github.io/Download-/','https://github.com/','https://bhaveshbhavu.github.io/new-random-image/');
+var a = new Array('https://www.xvdeos1.com/', 'https://xhamster18.desi/','https://ijavhd.com/', 'https://www-redtube-com.translate.goog/?_x_tr_sl=en&_x_tr_tl=hi&_x_tr_hl=hi&_x_tr_pto=sc','http://www.xxxbule.pro/','https://evexxx.com/video/xxx-com-video-%E0%A4%AE%E0%A4%B0%E0%A4%BE%E0%A4%A0%E0%A5%80-%E0%A4%B8%E0%A4%BE%E0%A4%A1%E0%A5%80','https://www.hd-easyporn.com/category/tube8-porn/','https://www.google.com/amp/s/amp.xhamster.com/channels/vivid','http://www.pussyboy.net/porn/www-youjizz-com/','https://gekso.xyz/video/avni-mam-want-student-dick-in-her-anal-and-tried-different-poses-for-sex');
 
 for (var i = 0; i < 1; i++) {
   
